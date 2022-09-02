@@ -1,1 +1,2 @@
-# do_it_django_atoz_2020_09
+# do_it_django_atoz_local_server
+
